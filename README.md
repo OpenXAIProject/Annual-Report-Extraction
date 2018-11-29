@@ -4,7 +4,7 @@
 >Extract 'Management's Discussion & Analysis" from annual reports
 
 <p align="center"> 
-<img src="https://github.com/OpenXAIProject/Annual-Report-Extraction/result.JPG"  width="350">
+<img src="https://github.com/OpenXAIProject/Annual-Report-Extraction/result.JPG"  width="600">
 </p>
     
       
